@@ -1,9 +1,13 @@
-                                                     Asciiquarium v1.1
-                                           by Kirk Baucom <kbaucom@schizoid.com>
-                                                 http://www.robobunny.com
+ ##  Asciiquarium v1.1
+ ### This program displays an aquarium/sea animation using ASCII art.
+ ### by Kirk Baucom
+ ### http://www.robobunny.com
 
 
 This program displays an aquarium/sea animation using ASCII art.
+
+![marpo-asciiquarium](https://user-images.githubusercontent.com/57546831/163484593-b113eb20-55cd-4afe-a85c-045e12df7d1a.gif)
+
 
 The current version of this program is available at:
 http://robobunny.com/projects/asciiquarium
