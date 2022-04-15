@@ -1,7 +1,7 @@
- ##  Asciiquarium v1.1
- ### This program displays an aquarium/sea animation using ASCII art.
- ### by Kirk Baucom
- ### http://www.robobunny.com
+###                             Asciiquarium v1.1 
+by [Kirk Baucom](http://www.robobunny.com)
+
+----------------------
 
 
 This program displays an aquarium/sea animation using ASCII art.
